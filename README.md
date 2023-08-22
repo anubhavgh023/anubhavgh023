@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Intrested in Cloud-Native Technolgies. Currently learning Web Dev, focusing on backend & DevOps practices. Open source Enthusiast. Continuously learning and engaging with the tech community.
+Intrested in <b>Cloud-Native Technolgies</b>. Currently learning <b> Web Dev</b>, focusing on <b>backend</b> & <b>DevOps</b> practices. <b>Open source</b> Enthusiast. Continuously learning and engaging with the tech community.
   
 </div>
 
