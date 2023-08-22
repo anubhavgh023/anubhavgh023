@@ -1,4 +1,4 @@
-<p align="center"><img alt="Profile Banner" src="https://github.com/anubhavgh023/anubhavgh023/blob/main/assets/Light%20Blue%20Modern%20Business%20Twitter%20Header.png"></p>
+<p align="center"><img alt="Profile Banner" src="./assets/anubhav-banner"></p>
 
 <div align="center">
 
