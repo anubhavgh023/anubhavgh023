@@ -1,4 +1,4 @@
-<p align="center"><img alt="Profile Banner" src="./assets/anubhav-banner"></p>
+<p align="center"><img alt="Profile Banner" src="./assets/anubhav-banner.png"></p>
 
 <div align="center">
 
