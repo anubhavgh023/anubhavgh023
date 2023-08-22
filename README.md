@@ -6,7 +6,7 @@ Intrested in Cloud-Native Technolgies. Currently learning Web Dev, focusing on b
   
 </div>
 
-<p align="left"> <a href="https://twitter.com/anubhavs_twt" target="blank"><img src="./assets/Twitter-handle.png" height="36" alt="anubhavs_twt"/></a></p>
+<p align="left"> <a href="https://twitter.com/anubhavs_twt" target="blank"><img src="./assets/twitter-header-1.png" height="36" alt="anubhavs_twt"/></a></p>
 
 
 <h3 align="left">Skillset:</h3>
