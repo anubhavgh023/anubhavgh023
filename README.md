@@ -1,4 +1,4 @@
-<p align="center"><img alt="Profile Banner" src="./assets/anubhav-banner.jpeg"></p>
+<p align="center"><img alt="Profile Banner" src="./assets/anubhav-banner-2.png"></p>
 
 <p align="left"> <a href="https://twitter.com/anubhavs_twt" target="blank"><img src="./assets/twitter-handle.jpg" height="32" alt="anubhavs_twt"/></a></p>
 
