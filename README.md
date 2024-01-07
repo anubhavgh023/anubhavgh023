@@ -13,5 +13,5 @@ Intrested in <b>Cloud-Native Technolgies</b>. Currently learning <b> Web Dev</b>
 <h3 align="left">Skillset:</h3>
 
 <!-- My Skills -->
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,mongodb,git,github,linux,&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,git,github,linux,&perline=8)](https://skillicons.dev)
 
